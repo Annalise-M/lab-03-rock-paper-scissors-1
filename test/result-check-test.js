@@ -8,11 +8,11 @@ test('Rock, Paper, Scissors', function(assert) {
     // Set up your parameters and expectations
     const player = 'Paper';
     const computer = 'Scissors';
-    const expected = 'You Lose!';
+    const expected = 'You Won!';
     
     const player2 = 'Paper';
     const computer2 = 'Rock';
-    const expected2 = 'You Won!';
+    const expected2 = 'You Lose!';
     
 
     const player3 = 'Paper';
